@@ -3,7 +3,7 @@ version: 0.3.0
 slug: vlc
 name: VLC-instance2
 description: Turn your device into a Media Player with VLC
-url: https://github.com/Arcanidus/addons/edit/master/vlc
+url: https://github.com/Arcanidus/addons
 arch:
   - amd64
   - i386
