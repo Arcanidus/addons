@@ -1,4 +1,4 @@
-# Home Assistant Add-on: VLC
+# Home Assistant Add-on: VLC RUSH INSTANCE 2
 
 Allow Home Assistant to use your local device as Media Player.
 
