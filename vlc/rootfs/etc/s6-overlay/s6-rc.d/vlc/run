@@ -9,4 +9,4 @@ readonly PASSWORD="$(cat /data/secret)"
 /etc/s6-overlay/scripts/vlc-discovery &
 
 # Run daemon
-exec cvlc -I http --no-dbus --extraintf telnet --http-host 127.0.0.1 --http-password "INGRESS" --telnet-password "${PASSWORD}" --aout=pulse
+exec cvlc -I http --no-dbus --extraintf telnet --http-host 127.0.0.1 --telnet-port 4213 --http-password "INGRESS" --telnet-password "gto8101" --aout=pulse
